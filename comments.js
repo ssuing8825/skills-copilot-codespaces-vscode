@@ -1,3 +1,5 @@
+// Create web server for comments
+
 // Import modules
 const express = require('express');
 const bodyParser = require('body-parser');
